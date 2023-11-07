@@ -1,0 +1,21 @@
+.canvas_wrapper {
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  h2{
+    font-size:20px;
+    padding: 10px;
+    color:#283747;
+    border-radius: 10px;
+    text-transform: uppercase;
+    text-align: center;
+    border: 1px solid black;
+  }
+
+  .canvas_item {
+    border-radius: 10px;
+    border: 1px solid black;
+  }
+}
