@@ -2,7 +2,7 @@
   "name": "drag_and_drop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://PinchukVA.github.io/drag_and_drop_simple",
+  "homepage": "https://vitPinchuk.github.io/DragAndDrop",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
@@ -17,8 +17,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
